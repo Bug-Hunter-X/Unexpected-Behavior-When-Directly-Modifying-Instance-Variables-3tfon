@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in Ruby where directly modifying instance variables using `instance_variable_set` can lead to unexpected behavior and maintainability problems.  The `bug.rb` file showcases the problem, while `bugSolution.rb` provides a more robust solution.
